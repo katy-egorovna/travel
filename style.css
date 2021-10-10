@@ -632,13 +632,13 @@ textarea {
     color: #006DFE;
     text-decoration: none;
     padding-right: 59px;
-    background: url(../img/svg/Shape.svg) no-repeat 95% center ;
+    background: url(./img/svg/Shape.svg) no-repeat 95% center ;
     transition: .2s all;
     
 }
 .benefits_card-more:hover,
 .benefits_card-more:focus {
-    background: url(../img/svg/Shape.svg) no-repeat right center ;  
+    background: url(./img/svg/Shape.svg) no-repeat right center ;  
 }
     /*Benefits style end*/
 
@@ -660,7 +660,7 @@ textarea {
     color: #006DFE;
     font-style: 16px;
     text-decoration: none;
-    background: url(../img/svg/Shape.svg) no-repeat right center ;
+    background: url(./img/svg/Shape.svg) no-repeat right center ;
     padding-right: 59px;
 }
 .places-view-all:hover,
@@ -758,7 +758,7 @@ transform: scale(1.05);
     color: #006DFE;
     font-style: 16px;
     text-decoration: none;
-    background: url(../img/svg/Shape.svg) no-repeat right center ;
+    background: url(./img/svg/Shape.svg) no-repeat right center ;
     padding-right: 59px;
 }
 .tour_more:hover,
@@ -819,7 +819,7 @@ transform: scale(1.05);
     line-height: 24px;
     color: #FFFFFF;
     padding-right: 20px;
-    background: url(../img/svg/heart.svg) no-repeat right;
+    background: url(./img/svg/heart.svg) no-repeat right;
     margin-right: 14px;
 }
 .top_card-comments {
@@ -827,7 +827,7 @@ transform: scale(1.05);
     line-height: 24px;
     color: #FFFFFF;
     padding-right: 23px;
-    background: url(../img/svg/comment-icon.svg) no-repeat right;
+    background: url(./img/svg/comment-icon.svg) no-repeat right;
 
 }
 .top_card-desc {
@@ -1038,7 +1038,7 @@ background: #1a70d9;
        margin-right: 0;
        width: 100%; 
        padding-bottom: 12px;
-       background: transparent url(../img/svg/circle-icon.svg) no-repeat left 2px;
+       background: transparent url(./img/svg/circle-icon.svg) no-repeat left 2px;
     }
     .search-form_field::placeholder {
         font-size: 16px;
