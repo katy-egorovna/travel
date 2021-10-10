@@ -537,7 +537,7 @@ textarea {
     flex-wrap: wrap;
 }
 .search-form_field {
-    background: transparent url(../img/svg/circle-icon.svg) no-repeat left 6px ;
+    background: transparent url(./img/svg/circle-icon.svg) no-repeat left 6px ;
     background-size: 20px;
     border: 0;
     border-bottom: 2px solid #BFC0C5;
